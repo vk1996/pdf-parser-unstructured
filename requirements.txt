@@ -1,0 +1,8 @@
+unstructured
+pdfplumber
+pdf2image
+pillow
+pi-heif
+unstructured_inference
+pytesseract
+unstructured_pytesseract
